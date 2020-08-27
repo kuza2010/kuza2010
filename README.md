@@ -1,6 +1,6 @@
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a9.png" width="30px"> Hello, ladies and gentlemens!
 
-My name is Artem Danilin and I'm a Software Developer. I'm from <img src="./russia.png" width="15px"> **Russia, Nizhny Novgorod.**
+My name is Artem Danilin and I'm a Software Developer. I'm from <img src="https://raw.githubusercontent.com/kuza2010/kuza2010/master/russia.png" width="15px"> **Russia, Nizhny Novgorod.**
 
 I graduated with a bachelor's degree in computer security from Nizhny Novgorod State Technical University. And now I am studying for a master’s degree.
 
