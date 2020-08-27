@@ -24,8 +24,6 @@ I graduated with a bachelor's degree in computer security from Nizhny Novgorod S
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=311C87)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=311C87)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=F7B93E)
-___
-
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png" width="30px"> Find me there
 
