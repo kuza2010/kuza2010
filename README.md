@@ -2,9 +2,9 @@
 
 My name is Artem Danilin and I'm a Software Developer. I'm from <img src="https://raw.githubusercontent.com/kuza2010/kuza2010/master/russia.png" width="15px"> **Russia, Nizhny Novgorod.**
 
-I graduated with a bachelor's degree in computer security from Nizhny Novgorod State Technical University. And now I am studying for a master’s degree. Currently, I have been working for about 2 years. 
+I graduated with a bachelor's degree in computer security from Nizhny Novgorod State Technical University. And now I am studying for a master’s degree. 
 
-I'am in love with Java and all things connected with it. Dedicated to being a fullstack engineer.
+Currently, I have been working for about 2 years. I'am in love with Java and all things connected with it. Dedicated to being a fullstack engineer.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30px"> Things I code with
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=46a2f1)
