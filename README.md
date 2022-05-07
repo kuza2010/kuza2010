@@ -34,6 +34,6 @@ Currently, I have been working for about 3 years. I'am in love with Java and all
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png" width="30px"> Find me there
 
-[![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kuza2010)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/artyom-danilin-a11026194/)
-[![](https://img.shields.io/badge/Personal%20Site-Site?&style=for-the-badge&color=593196)](https://danilin-website.vercel.app/)
+[![](https://img.shields.io/badge/-PERSONAL%20SITE-593196?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB1UlEQVQ4T2OMNJxWx8DAUM3AwMDGQBr4xcDA0MoYaTjtJxmaYVb9AhnwnzSLUVVjGCCpyMvw4sFnhv9QY5mYGBlAYiDw8/sfhrfPv8HlQGIoBgiIcjAUT7NnmF17kuHRjQ9gTRxcLAw1i5wZrp18ycDJw8rAJ8TBsHHWVYZ7l9+B5VEMsPKRZ7ANUGS4eOg5w45FN1EMqI/YxfD3z38GGVV+hrgqY4YpJccYPr39gWpAarMZw6ldjxmcw1UY+nIOYzUAJBico8Pw6slXhsMb7iMM4BFgZ8jutmToSjvAkN1jxbBm0mWGFw8/w70AcwHIAFt/BQZhKW6GDdOvIgwwc5NlkFLmAwu6RKow/P37n2H/qrs4DRCR4mZYj2xAYp0J2IBf3/8wsLIzM3x8+5NhaskxrAYEZeuAY+PgunsQF4BCt3iaHUNf9iGGP7//gf1eONmWYXbNSYZvn3+DYwHmBUklPobEWmOGaWXHGT68hgaikaM0g4aJKMOy7gvwVBKQoc3w+ulXhrN7n4ANuHTkOQMnNyuDiDQ3w8aZVxnuXHyLiEYhcU6wnz+++QE3gFeQnYGdk4Xh3YtvDDJq/GDxX9//Mrx68oXh319E4qVKUqY4M1GUnQEr5Nvz1r2sSQAAAABJRU5ErkJggg==&)](https://danilin-website.vercel.app/)
+[![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kuza2010)
