@@ -1,10 +1,10 @@
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a9.png" width="30px"> G’day!
 
-My name is Artem Danilin and I'm a Software Developer. I'm from <img src="https://raw.githubusercontent.com/kuza2010/kuza2010/master/russia.png" width="15px"> **Russia, Nizhny Novgorod.**
+My name is Artem Danilin and I'm a Software Engineer. I'm from <img src="https://raw.githubusercontent.com/kuza2010/kuza2010/master/russia.png" width="15px"> **Russia, Nizhny Novgorod.**
 
-I graduated Nizhny Novgorod State Technical University with a bachelor and master degree in computer security.
+I graduated Nizhny Novgorod State Technical University with master degree in computer security.
 
-Currently, I have been working for about 4 years. I'am in love with Java and all things connected with it. I have a varied experience with backend/mobile/web development.
+Currently, I have been working for about 5 years. I'm in love with Java and everything's connected with it. I have a varied experience with backend/mobile/web development.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30px"> Things I code with
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=46a2f1)
